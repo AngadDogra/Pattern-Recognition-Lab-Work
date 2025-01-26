@@ -1,2 +1,2 @@
-# Pattern-Recognition-Lab-Work
-The experiments done during the course - Pattern Recognition and Anomaly Detection during January-August 2025
+# *Pattern-Recognition-Lab-Work*
+### **The experiments done during the course - *Pattern Recognition and Anomaly Detection January-August 2025* **
